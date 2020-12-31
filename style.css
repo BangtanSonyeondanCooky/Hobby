@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background: linear-gradient (#E4BEE 04, #90CAP9 1004);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 504;
+    width: 500px;
+    height: 500px;
+}
+
+
+
+h1 {
+    text-shadow: 2px 2px #f024e2;
+    font-size: 20px;
+}
+
+p {
+    text-shadow: 2px 2px #12bafc
+}
+
